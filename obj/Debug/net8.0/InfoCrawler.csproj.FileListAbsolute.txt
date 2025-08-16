@@ -1,0 +1,17 @@
+D:\DEPI\C#-Practical projects\InfoCrawler\bin\Debug\net8.0\InfoCrawler.exe
+D:\DEPI\C#-Practical projects\InfoCrawler\bin\Debug\net8.0\InfoCrawler.deps.json
+D:\DEPI\C#-Practical projects\InfoCrawler\bin\Debug\net8.0\InfoCrawler.runtimeconfig.json
+D:\DEPI\C#-Practical projects\InfoCrawler\bin\Debug\net8.0\InfoCrawler.dll
+D:\DEPI\C#-Practical projects\InfoCrawler\bin\Debug\net8.0\InfoCrawler.pdb
+D:\DEPI\C#-Practical projects\InfoCrawler\bin\Debug\net8.0\HtmlAgilityPack.dll
+D:\DEPI\C#-Practical projects\InfoCrawler\obj\Debug\net8.0\InfoCrawler.csproj.AssemblyReference.cache
+D:\DEPI\C#-Practical projects\InfoCrawler\obj\Debug\net8.0\InfoCrawler.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\C#-Practical projects\InfoCrawler\obj\Debug\net8.0\InfoCrawler.AssemblyInfoInputs.cache
+D:\DEPI\C#-Practical projects\InfoCrawler\obj\Debug\net8.0\InfoCrawler.AssemblyInfo.cs
+D:\DEPI\C#-Practical projects\InfoCrawler\obj\Debug\net8.0\InfoCrawler.csproj.CoreCompileInputs.cache
+D:\DEPI\C#-Practical projects\InfoCrawler\obj\Debug\net8.0\InfoCraw.7603173A.Up2Date
+D:\DEPI\C#-Practical projects\InfoCrawler\obj\Debug\net8.0\InfoCrawler.dll
+D:\DEPI\C#-Practical projects\InfoCrawler\obj\Debug\net8.0\refint\InfoCrawler.dll
+D:\DEPI\C#-Practical projects\InfoCrawler\obj\Debug\net8.0\InfoCrawler.pdb
+D:\DEPI\C#-Practical projects\InfoCrawler\obj\Debug\net8.0\InfoCrawler.genruntimeconfig.cache
+D:\DEPI\C#-Practical projects\InfoCrawler\obj\Debug\net8.0\ref\InfoCrawler.dll

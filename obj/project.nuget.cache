@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tbUOX/G7YkY=",
+  "success": true,
+  "projectFilePath": "D:\\DEPI\\C#-Practical projects\\InfoCrawler\\InfoCrawler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Seaf\\.nuget\\packages\\htmlagilitypack\\1.12.2\\htmlagilitypack.1.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}

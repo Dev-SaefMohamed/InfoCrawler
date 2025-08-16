@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\DEPI\\C#-Practical projects\\InfoCrawler\\InfoCrawler.csproj": {}
+  },
+  "projects": {
+    "D:\\DEPI\\C#-Practical projects\\InfoCrawler\\InfoCrawler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DEPI\\C#-Practical projects\\InfoCrawler\\InfoCrawler.csproj",
+        "projectName": "InfoCrawler",
+        "projectPath": "D:\\DEPI\\C#-Practical projects\\InfoCrawler\\InfoCrawler.csproj",
+        "packagesPath": "C:\\Users\\Seaf\\.nuget\\packages\\",
+        "outputPath": "D:\\DEPI\\C#-Practical projects\\InfoCrawler\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Seaf\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.12.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.413/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
